@@ -9,13 +9,13 @@
 
 <p align="center">- 🌱 I’m currently learning Vue.JS, Python, C++</p>
 
-<p align="center">- 👯 I’m looking to collaborate on [Galaxcy](https://twitter.com/teamgalaxcy)</p>
+<p align="center">- 👯 I’m looking to collaborate on Galaxcy an Art Collective and Social Hub for Creatives</p>
 
 <p align="center">- 🤝 I’m looking for help with Galaxcy</p>
 
-<p align="center">- 👨‍💻 All of my projects are available at [https://github.com/lmaogb](https://github.com/lmaogb)</p>
+<p align="center">- 👨‍💻 All of my projects are available at GitHub</p>
 
-<p align="center">- 📝 I regularly write articles on [garettbishop.com](garettbishop.com)</p>
+<p align="center">- 📝 I regularly write articles on garettbishop.com</p>
 
 <p align="center">- 💬 Ask me about Art, Gaming, Python</p>
 
