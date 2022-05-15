@@ -40,6 +40,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lmaogb&show_icons=true&locale=en" alt="lmaogb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lmaogb&" alt="lmaogb" /></p>
+                                                              
+<p align="center">Thanks to the README Generator by rahuldkjain</p>
 
-
-                                                        Thanks to the README Generator by rahuldkjain
+<p align="center">https://github.com/rahuldkjain/github-profile-readme-generator
+                
+                                           
+                                           
