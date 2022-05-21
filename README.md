@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lmaogb&label=Profile%20views&color=0e75b6&style=flat" alt="lmaogb" /> </p>
 
-<p align="center"> <a href="https://twitter.com/dontgare" target="blank"><img src="https://img.shields.io/twitter/follow/dontgare?logo=twitter&style=for-the-badge" alt="dontgare" /></a> </p>
+<p align="center"> <a href="https://twitter.com/droxcy" target="blank"><img src="https://img.shields.io/twitter/follow/dontgare?logo=twitter&style=for-the-badge" alt="dontgare" /></a> </p>
 
 <p align="center">- 🔭 I’m currently working on expanding my web development skills and to dive more into Python and the software world!</p>
 
@@ -25,7 +25,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/dontgare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dontgare" height="30" width="40" /></a>
+<a href="https://twitter.com/droxcy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dontgare" height="30" width="40" /></a>
 <a href="https://instagram.com/garedesigns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="garedesigns" height="30" width="40" /></a>
 <a href="https://www.behance.net/garettbishop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="garettbishop" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/galaxcy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="galaxcy" height="30" width="40" /></a>
