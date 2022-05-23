@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garett Bishop</h1>
-<h3 align="center">I'm a 15+ years of experience handling forum building, private game servers & multiple small projects now I'm looking to branch into new languges and create foward thinking projects</h3>
+<h3 align="center">I have 15+ years of experience handling forum building, private game servers & multiple small projects now I'm looking to branch into new languges and create foward thinking projects</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lmaogb&label=Profile%20views&color=0e75b6&style=flat" alt="lmaogb" /> </p>
 
